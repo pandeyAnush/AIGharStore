@@ -18,5 +18,5 @@ A Django-based web application featuring a **recommendation system** (small AI f
 - **AI/Reco**: Pluggable engine (e.g. content-based / popularity / hybrid)
 - **Env**: `python-dotenv` (optional), `dj-database-url` (optional)
 
-## 📦 Project Structure (example)
+
 
